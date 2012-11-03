@@ -1,10 +1,22 @@
 ==================================================
-Changes from 2011-11-03 00:00:00 +0000 to present.
+Changes from 2011-11-04 00:00:00 +0000 to present.
 ==================================================
 
-----------------------------------------
-version 0.4 at 2012-11-02 20:40:40 +0000
-----------------------------------------
+------------------------------------------
+version 0.4.1 at 2012-11-03 10:34:20 +0000
+------------------------------------------
+
+  Change: 43f0017a794d4dee202f11209181c209debc9961
+  Author: Lieven Hollevoet <hollie@lika.be>
+  Date : 2012-11-03 11:34:00 +0000
+
+    Debugging verbosity can be set through environment variables 
+
+  Change: b9d4c308db98f23ea684167eaa807b8039822185
+  Author: Lieven Hollevoet <hollie@lika.be>
+  Date : 2012-11-03 11:23:00 +0000
+
+    Bumped version number to 0.4 for CPAN release 
 
   Change: b0e2c21552056394a628cbdb6f1626c807a45a33
   Author: Lieven Hollevoet <hollie@lika.be>
